@@ -1,30 +1,79 @@
 [
     {
-      "name": "Composer",
+      "name": "REST/HTTP",
       "ring": "adopt",
-      "quadrant": "tools",
-      "isNew": "TRUE",
-      "description": "Although the idea of dependency management ..."
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": "Some description, blablabla"
     },
     {
-      "name": "Canary builds",
-      "ring": "trial",
-      "quadrant": "techniques",
+      "name": "JSON Payloads",
+      "ring": "adopt",
+      "quadrant": "languages & frameworks",
       "isNew": "FALSE",
       "description": "Many projects have external code dependencies ..."
     },
     {
-      "name": "Apache Kylin",
-      "ring": "assess",
-      "quadrant": "platforms",
+      "name": "OpenAPI 3.0",
+      "ring": "adopt",
+      "quadrant": "tools",
       "isNew": "TRUE",
-      "description": "Apache Kylin is an open source analytics solution ..."
+      "description": "OpenAPI 3.0 ..."
     },
     {
-      "name": "JSF",
-      "ring": "hold",
-      "quadrant": "languages & frameworks",
-      "isNew": "FALSE",
-      "description": "We continue to see teams run into trouble using JSF ..."
-    }
+      "name": "ASA",
+      "ring": "trail",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "..."
+    },
+    {
+        "name": "Ping Federate",
+        "ring": "adopt",
+        "quadrant": "tools",
+        "isNew": "FALSE",
+        "description": "..."
+      },
+      {
+        "name": "Postgres-compatible databases",
+        "ring": "adopt",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      },
+      {
+        "name": "s3-compatible object store",
+        "ring": "adopt",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      },
+      {
+        "name": "Docker Container",
+        "ring": "adopt",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      },
+      {
+        "name": "Kubernetes",
+        "ring": "adopt",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      },
+      {
+        "name": "Oracle",
+        "ring": "hold",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      }
+      {
+        "name": "OpenTelemetry",
+        "ring": "Trail",
+        "quadrant": "platform",
+        "isNew": "FALSE",
+        "description": "..."
+      }
   ]
